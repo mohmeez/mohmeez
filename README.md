@@ -13,4 +13,4 @@ I'm a Bachelor of Artificial Intelligence student with experience in data analyt
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohmeez&show_icons=true&locale=en&layout=compact" alt="mohmeez" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohmeez&show_icons=true&locale=en" alt="mohmeez" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohmeez&show_icons=true&locale=en&layout=compact" alt="mohmeez" /></p>
